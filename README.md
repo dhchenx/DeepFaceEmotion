@@ -2,7 +2,7 @@
 A revised DeepFace to have callback function for saving emotion inside program
 
 ## Background
-Although the [DeepFace](https://github.com/serengil/deepface) project has an amazing abilities to retrieve facial attriburtes inrealtime video analysis, the library is not able to provide a callback function so developers can obtain the identified attributes inside their codes. This limits the developer to write automated programs for data mining, for example, automatically retrive the attributes and save the attributes to a csv plain text file. 
+Although the [DeepFace](https://github.com/serengil/deepface) project has an amazing abilities to retrieve facial attriburtes in realtime video analysis, the library is not able to provide a callback function so developers can obtain the identified attributes inside their codes. This limits the developer to write automated programs for data mining, for example, automatically retrive the attributes and save the attributes to a csv plain text file. 
 
 Hence, I revised the `deepface` class in the library to fulfile the needs. 
 
